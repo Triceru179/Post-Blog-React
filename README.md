@@ -6,8 +6,10 @@ This blog was made by following the lessons from this Youtube <a href="https://w
 
 ## Setup Instructions
 
-1º Clone this repository 
+1º Clone this repository
+
 2º Install the dependencies (npm install)
+
 3º Run the following code for json-server in the directory: 
 ```
 npx json-server --watch data/db.json --port 8000
