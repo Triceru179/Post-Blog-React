@@ -1,6 +1,6 @@
 # Post-Blog-React
 
-A Blog-post with basic funcionalities like create and delete posts using react router, custom hook and other stuff...  
+A Blog-post with basic functionalities like create and delete posts using react router, custom hook and other stuff...  
 
 This blog was made by following the lessons from this Youtube <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d">course</a>
 
