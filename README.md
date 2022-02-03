@@ -18,4 +18,6 @@ npm start
 ```
 5º Open http://localhost:3000 to view it in your browser.
 
-<center><img src="https://user-images.githubusercontent.com/75907263/152328627-65d8eed2-aa21-4cdb-8436-e3b6c68b796f.png" width="800"></center>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75907263/152328627-65d8eed2-aa21-4cdb-8436-e3b6c68b796f.png" width="800">
+</p>
